@@ -6,5 +6,6 @@ There are several files:
 - EDA where we discover and filter the dataset
 - Image download where we download images onto our computer
 - Resize images
-- 2 notebooks with neural networks training 
+- 2 notebooks with neural networks training
+- Keras tuner 
 - Camera: a function that returns the prediction from the image given from the user's camera on the computer
